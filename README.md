@@ -14,7 +14,7 @@ The output should be a ListView that displays each matching movies details (titl
 ### Instructions
 
 1. Clone this repository to your Github account (don't fork it please)
-2. Create your android app source files, commit it and then push it to Github (no need to generate APK)
+2. Create your android app source files, commit it and then push it to Github (please include a generated APK)
 3. Email us a link to your completed code
 4. You're done!
 
