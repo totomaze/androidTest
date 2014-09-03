@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Android Developer Test
 
 ### Overview
